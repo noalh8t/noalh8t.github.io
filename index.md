@@ -8,6 +8,3 @@
 #Experiment 1:
 
 Chat with customized alphabet for encrypt message to send to other people through a client/server socket in Java
-
-![GitHub Logo]()
-Format: ![Alt Text](url)
