@@ -10,4 +10,4 @@ Albert Einstein
  
  Here's some example code:
  
- echo "Hello"
+return shell_exec("echo Hello");
