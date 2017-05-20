@@ -1,13 +1,8 @@
-The important thing is no stop questioning;
+                                          #The important thing is no stop questioning;
 
-Albert Einstein
+                                                     ###Albert Einstein
 
 
- ## This is a header.
- 
- 1.   This is the first list item.
- 2.   This is the second list item.
- 
- Here's some example code:
- 
-return shell_exec("echo Hello");
+#Experiment 1:
+
+Chat with customized alphabet for encrypt message to send to other people through a client/server socket in Java
